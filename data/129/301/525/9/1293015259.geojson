@@ -44,7 +44,7 @@
         "gn:id":3580682
     },
     "wof:country":"KY",
-    "wof:geomhash":"a69805217b4b8926a9937bb5aa9b576c",
+    "wof:geomhash":"c4c6fe486f433f89d2878a95cdbe523d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,5 +105,5 @@
     -81.23333000000002,
     19.35
 ],
-  "geometry": {"coordinates":[-81.23333000000002,19.35],"type":"Point"}
+  "geometry": {"coordinates":[-81.23333,19.35],"type":"Point"}
 }

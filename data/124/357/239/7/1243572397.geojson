@@ -40,7 +40,7 @@
         "gn:id":3580717
     },
     "wof:country":"KY",
-    "wof:geomhash":"f0b301f3fb44addfa5f17b588ebaedac",
+    "wof:geomhash":"666528be26df45c8059c96a67bcd5c41",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,5 +67,5 @@
     -81.26666999999998,
     19.26667
 ],
-  "geometry": {"coordinates":[-81.26666999999998,19.26667],"type":"Point"}
+  "geometry": {"coordinates":[-81.26667,19.26667],"type":"Point"}
 }
