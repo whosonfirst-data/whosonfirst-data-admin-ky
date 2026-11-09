@@ -268,7 +268,6 @@
     "wd:wordcount":433,
     "wof:belongsto":[
         85632611,
-        85681183,
         102191575,
         136253055
     ],
@@ -289,14 +288,13 @@
             "country_id":-1,
             "dependency_id":85632611,
             "empire_id":136253055,
-            "locality_id":890434949,
-            "region_id":85681183
+            "locality_id":890434949
         }
     ],
     "wof:id":890434949,
     "wof:lastmodified":1690938380,
     "wof:name":"George Town",
-    "wof:parent_id":85681183,
+    "wof:parent_id":85632611,
     "wof:placetype":"locality",
     "wof:population":29370,
     "wof:population_rank":7,
